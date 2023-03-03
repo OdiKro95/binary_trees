@@ -1,4 +1,3 @@
-@OdiKro95
 #include "binary_trees.h"
 
 /**
